@@ -1,1 +1,2 @@
-## The presentations I delivered during my undergraduate degree
+## A place where...
+I put all the presentations I delivered during my undergraduate degree!
